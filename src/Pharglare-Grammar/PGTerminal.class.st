@@ -9,7 +9,7 @@ Class {
 		'dynamic',
 		'keyword'
 	],
-	#category : #Pharglare
+	#category : #'Pharglare-Grammar'
 }
 
 { #category : #accessing }

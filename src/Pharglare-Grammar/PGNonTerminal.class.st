@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'productions'
 	],
-	#category : #Pharglare
+	#category : #'Pharglare-Grammar'
 }
 
 { #category : #accessing }

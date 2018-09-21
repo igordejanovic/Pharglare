@@ -9,7 +9,7 @@ Class {
 		'grammarAction',
 		'importedWith'
 	],
-	#category : #Pharglare
+	#category : #'Pharglare-Grammar'
 }
 
 { #category : #accessing }
